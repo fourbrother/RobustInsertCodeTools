@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Dec 16 14:33:19 GMT+08:00 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=robusttools_classfile.jar
+manifest.mergeall=true
+manifest.mainclass=cn.wjdiankong.main.InsertClassFile
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|RobustInsertCodeTools>~cn/~wjdiankong/~example/;<po|RobustInsertCodeTools>~cn/~wjdiankong/~main/~InsertJarFile.class
+includes=
